@@ -2,4 +2,4 @@
 
 I'm a third-year Master of Information/Master of Resource and Environmental Management (MI/MREM) student at Dalhousie University (Halifax, Nova Scotia, Canada). I study the social and political dimensions of climate adaptation in rural communities. I seek to understand how local climate actors seek, identify, and use information in adaptation policy development and implementation. I previously studied people's relationships with nature in the context of the increasing flood risk in the Bay of Fundy's dykeland system. As Rochelle Owen Consulting's Research Associate, I'm also actively involved in a range of practitioner-led climate adaptation projects.
 
-Visit my [CV](https://github.com/alexandre-legault/website/blob/main/CV_Alexandre-Legault_2026-02-05.pdf) to learn more about me and my [ORCID record](https://orcid.org/0009-0009-3909-6226) to retrieve my works.
+Visit my [CV](https://github.com/alexandre-legault/website/blob/main/assets/CV.pdf) to learn more about me and my [ORCID record](https://orcid.org/0009-0009-3909-6226) to retrieve my works.
