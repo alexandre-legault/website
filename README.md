@@ -7,11 +7,3 @@ I study the social and political dimensions of climate adaptation in rural commu
 I was born and raised in Ottawa in a French-Canadian family, but have lived in Halifax’s North End with my wife and cat for almost four years. In my free time, I enjoy spending time with friends, swimming, drinking coffee, playing video games, and reading. 
 
 Consult my [CV](https://github.com/alexandre-legault/website/blob/main/CV_Alexandre-Legault_2026-02-25.pdf) to learn more about me or visit my [ORCID record](https://orcid.org/0009-0009-3909-6226) to retrieve my works.
-
-## Projects
-
-I'm currently involved in several projects:
-
-* **Using Information in Municipal Flood Risk Policy Development and Implementation**: With EIUI, I aim to understand how staff employed by Lunenburg County’s (Nova Scotia) coastal municipalities seek, identify, and use information in the development, implementation, and evaluation of coastal adaptation policies, especially those related to flooding.
-* **Achieving Equitable Decisions in the Bay of Fundy’s Lived Landscapes**: With the Sherren Lab, I seek to understand how Acadian diasporans value and relate to the Bay of Fundy's dykeland system in the context of a changing climate.
-* **The Use and Influence of Information in Local Policy-Making: A Systematic Map Protocol**: With EIUI, I am completing a systematic map on the use of information in climate policy-making at local levels of government.
